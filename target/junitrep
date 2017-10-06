@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="26.449066">
+<testcase classname="As a user I want to create a new account for mendeley.com" name="Create a new account with correct details - happy path" time="26.449066">
+<system-out><![CDATA[Given I am on the Create account page.......................................passed
+And I click create account link.............................................passed
+When I enter valid details as follows.......................................passed
+And I click continue button.................................................passed
+And I select a Field of study from the drop down............................passed
+And I select an Academic status from the drop down..........................passed
+And I click on Create account button........................................passed
+Then "Mendeley Feed" page is displayed......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
