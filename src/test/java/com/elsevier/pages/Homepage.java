@@ -11,7 +11,7 @@ public class Homepage extends BasePage {
 	}
 
 	@FindBy(linkText = "Create account")
-	public WebElement lnk_create_acccount;
+	private WebElement lnk_create_acccount;
 
 	public void click_create_account_link() {
 		click(lnk_create_acccount);

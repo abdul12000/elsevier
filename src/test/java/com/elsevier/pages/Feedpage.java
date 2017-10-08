@@ -10,7 +10,7 @@ public class Feedpage extends BasePage {
 	}
 
 	@FindBy(linkText = "Feed")
-	public WebElement txtFeed;
+	private WebElement txtFeed;
 
 	public void waitForVisibilityOfFeedPage() {
 		waitForVisibilityOfElement(txtFeed);

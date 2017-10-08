@@ -11,28 +11,28 @@ public class Joinpage extends BasePage {
 	}
 
 	@FindBy(id = "email")
-	public WebElement inpEmail;
+	private WebElement inpEmail;
 
 	@FindBy(id = "first_name")
-	public WebElement inpFirstname;
+	private WebElement inpFirstname;
 
 	@FindBy(id = "last_name")
-	public WebElement inpLastname;
+	private WebElement inpLastname;
 
 	@FindBy(id = "password")
-	public WebElement inpPassword;
+	private WebElement inpPassword;
 
 	@FindBy(className = "first-step-button")
-	public WebElement btnContinue;
+	private WebElement btnContinue;
 
 	@FindBy(id = "subject_area")
-	public WebElement selFieldOfStudy;
+	private WebElement selFieldOfStudy;
 
 	@FindBy(id = "user_role")
-	public WebElement selAcademicStatus;
+	private WebElement selAcademicStatus;
 
 	@FindBy(id = "join-form-submit")
-	public WebElement btnCreatAccount;
+	private WebElement btnCreatAccount;
 
 	public void enterEmail(String email) {
 		sendKeys(inpEmail, email);
