@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="26.449066">
-<testcase classname="As a user I want to create a new account for mendeley.com" name="Create a new account with correct details - happy path" time="26.449066">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="25.586953">
+<testcase classname="As a user I want to create a new account for mendeley.com" name="Create a new account with correct details - happy path" time="25.586953">
 <system-out><![CDATA[Given I am on the Create account page.......................................passed
 And I click create account link.............................................passed
 When I enter valid details as follows.......................................passed

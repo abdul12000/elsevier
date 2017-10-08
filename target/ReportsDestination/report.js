@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6163678120,
+  "duration": 6691665333,
   "status": "passed"
 });
 formatter.background({
@@ -31,14 +31,14 @@ formatter.match({
   "location": "Stepdefintion.i_am_on_the_Create_account_page()"
 });
 formatter.result({
-  "duration": 6187735768,
+  "duration": 5389150256,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefintion.i_click_create_account_link()"
 });
 formatter.result({
-  "duration": 173592300,
+  "duration": 172200521,
   "status": "passed"
 });
 formatter.scenario({
@@ -126,35 +126,35 @@ formatter.match({
   "location": "Stepdefintion.i_enter_correct_details_as_follows(DataTable)"
 });
 formatter.result({
-  "duration": 1500823361,
+  "duration": 1573983987,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefintion.i_click_continue_button()"
 });
 formatter.result({
-  "duration": 47871286,
+  "duration": 42649028,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefintion.i_select_a_Field_of_study_from_the_drop_down()"
 });
 formatter.result({
-  "duration": 742656574,
+  "duration": 772396646,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefintion.i_select_an_Academic_status_from_the_drop_down()"
 });
 formatter.result({
-  "duration": 155171939,
+  "duration": 153123235,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefintion.i_click_on_Create_account_button()"
 });
 formatter.result({
-  "duration": 58414183,
+  "duration": 54663748,
   "status": "passed"
 });
 formatter.match({
@@ -167,11 +167,11 @@ formatter.match({
   "location": "Stepdefintion.page_is_displayed(String)"
 });
 formatter.result({
-  "duration": 6999934061,
+  "duration": 6278027587,
   "status": "passed"
 });
 formatter.after({
-  "duration": 4419188643,
+  "duration": 4459092899,
   "status": "passed"
 });
 });
